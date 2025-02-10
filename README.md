@@ -33,7 +33,7 @@ python Cracker.py
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/@chamidunimsara20052](https://www.youtube.com/@chamidunimsara20052)
 
-- 📝 I regularly write articles on [https://t.me/hackingword24](https://t.me/hackingword24)
+- 📝 I regularly write articles on [https://t.me/secure_horizon_MR_C005](https://t.me/secure_horizon_MR_C005)
 
 - 💬 Ask me about **I will reply in due course**
 
